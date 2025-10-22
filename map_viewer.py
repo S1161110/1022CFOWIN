@@ -1,6 +1,6 @@
 # ...existing code...
 import streamlit as st
-import leafmap.foliumap as leafmap
+import leafmap
 import geopandas as gpd
 import requests
 import tempfile
