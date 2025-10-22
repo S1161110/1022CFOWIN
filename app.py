@@ -5,7 +5,7 @@ import streamlit as st
 pages = [
     st.Page("home.py", title="專案首頁", icon="👻"),
     st.Page("map_viewer.py", title="互動地圖瀏覽", icon="🫤"),
-#    st.Page("page_about.py", title="關於我們", icon="🫵")
+    st.Page("CFO_WIN.py", title="25CFO", icon="🫵")
 ]
 # 2. 使用 st.navigation() 建立導覽
 with st.sidebar:
